@@ -9,7 +9,7 @@ ISC desde la terminal
 
 Pedir una IP por DHCP:
 ```bash
-dhclient -v eth0
+$ dhclient -v eth0
 ```
 
 Borrar la configuración DHCP:
